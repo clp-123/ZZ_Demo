@@ -13,9 +13,14 @@
 }
 .ellipse {
 }
+._图片 {
+}
+.placeholder {
+}
 .button {
 }
-._图像 {
+.link_button {
+  color:#169BD5;
 }
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
@@ -58,6 +63,9 @@
   font-size:10px;
   text-align:left;
 }
+.paragraph {
+  text-align:left;
+}
 .label {
   font-size:14px;
   text-align:left;
@@ -65,17 +73,11 @@
 ._文本段落 {
   text-align:left;
 }
-._连接线 {
+._流程形状 {
 }
 .line {
 }
-.arrow {
-}
 .text_field {
-  color:#000000;
-  text-align:left;
-}
-.text_area {
   color:#000000;
   text-align:left;
 }
@@ -89,12 +91,16 @@
 .radio_button {
   text-align:left;
 }
-.html_button {
-  text-align:center;
-}
 .table_cell {
 }
-._流程形状 {
+._连接符 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
 }
 .menu_item {
 }
@@ -104,9 +110,11 @@
 .marker {
   color:#FFFFFF;
 }
-._图片 {
+.flow_shape {
 }
 .icon {
 }
-.flow_shape {
+.box_3 {
+}
+.image {
 }
